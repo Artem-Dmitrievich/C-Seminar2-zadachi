@@ -19,3 +19,4 @@ if (x1 >= x2)
     Console.WriteLine(x1);
 else
     Console.WriteLine(x2);
+//не ставили {} потому что в коде 1 строка, ставятся если больше 2-х
